@@ -4,13 +4,13 @@
 
   <test name="Functional Test">
     <classes>
-      <class name="com.thoughtworks.test.GetNumbers"/>
-	  <class name="com.thoughtworks.test.SendMessage"/>
-	  <class name="com.thoughtworks.test.GetMessageDetails"/>
-	  <class name="com.thoughtworks.test.GetPrice"/>
-	  <class name="com.thoughtworks.test.VerifyPricingAndRate"/>
-	  <class name="com.thoughtworks.test.GetAccountDetails"/>
-	  <class name="com.thoughtworks.test.VerifyCashCreditAndAmount"/>
+      <class name="com.plivo.test.GetNumbers"/>
+	  <class name="com.plivo.test.SendMessage"/>
+	  <class name="com.plivo.test.GetMessageDetails"/>
+	  <class name="com.plivo.test.GetPrice"/>
+	  <class name="com.plivo.test.VerifyPricingAndRate"/>
+	  <class name="com.plivo.test.GetAccountDetails"/>
+	  <class name="com.plivo.test.VerifyCashCreditAndAmount"/>
     </classes>
   </test>
 
